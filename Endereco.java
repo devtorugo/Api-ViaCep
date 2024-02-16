@@ -1,2 +1,2 @@
-public record Endereco() {
+public record Endereco(String) {
 }
